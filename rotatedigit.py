@@ -7,4 +7,4 @@ while temp>0:
 last=n%10
 remaining=n//10
 answer=last*(10**(count-1))+remaining
-print(answer)
+print(answer)s

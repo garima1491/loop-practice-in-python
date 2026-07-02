@@ -13,4 +13,4 @@ while n > 9:
 if n == 1:         
     print("Magic Number")
 else:
-    print("Not Magic Number")
+    print("Not Magic Number") 
