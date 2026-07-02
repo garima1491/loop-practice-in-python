@@ -1,8 +1,5 @@
 # loop-practice-in-python
 
-
-# Loop Practice in Python
-
 This repository contains my Python practice programs.
 
 ## Topics Covered
